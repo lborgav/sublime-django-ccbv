@@ -1,5 +1,7 @@
-[{
-  "id": "django_ccbv",
-  "caption": "Django CCBV",
-  "command": "django_ccbv"
-}]
+[
+	{
+  		"id": "django_ccbv",
+  		"caption": "Django CCBV",
+  		"command": "django_ccbv"
+	}
+]
